@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a6d7d94-1f51-401b-9d88-fc9cde5cc33b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="yml File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.3/bin" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1qBV2xYKGQ56wG1xI228YaEERzt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\spring-cloud\cloud2021" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ConsumerOpenFeignHystrix80">
+    <configuration name="Consumer80Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="consumer-80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.micgoo.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.micgoo.springcloud.Consumer80Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerOpenFeignHystrix80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-consumer-openfeign-hystrix-80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.micgoo.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.micgoo.springcloud.ConsumerOpenFeignHystrix80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer7001Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-eureka-server-7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.micgoo.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.micgoo.springcloud.EurekaServer7001Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer7002Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka-server-7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.micgoo.springcloud.EurekaServer7002Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="provider-8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.micgoo.springcloud.PaymentMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider8002Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="provider-8002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.micgoo.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.micgoo.springcloud.Provider8002Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider8004Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="provider-8004" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.micgoo.springcloud.Provider8004Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderHystrixMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-hystrix-8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.micgoo.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.micgoo.springcloud.ProviderHystrixMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Provider8004Main" />
+      <item itemvalue="Spring Boot.EurekaServer7002Main" />
+      <item itemvalue="Spring Boot.Consumer80Main" />
+      <item itemvalue="Spring Boot.EurekaServer7001Main" />
+      <item itemvalue="Spring Boot.Provider8002Main" />
+      <item itemvalue="Spring Boot.ProviderHystrixMain8001" />
+      <item itemvalue="Spring Boot.ConsumerOpenFeignHystrix80" />
+      <item itemvalue="Spring Boot.PaymentMain8001" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ProviderHystrixMain8001" />
+        <item itemvalue="Spring Boot.ConsumerOpenFeignHystrix80" />
+        <item itemvalue="Spring Boot.EurekaServer7001Main" />
+        <item itemvalue="Spring Boot.Consumer80Main" />
+        <item itemvalue="Spring Boot.Provider8002Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a6d7d94-1f51-401b-9d88-fc9cde5cc33b" name="Default Changelist" comment="" />
+      <created>1616552766622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616552766622</updated>
+      <workItem from="1616552769703" duration="909000" />
+      <workItem from="1616554211647" duration="40000" />
+      <workItem from="1616554410570" duration="371000" />
+      <workItem from="1616554867828" duration="142000" />
+      <workItem from="1616555037114" duration="13199000" />
+      <workItem from="1616575543641" duration="24177000" />
+      <workItem from="1616982922001" duration="81000" />
+      <workItem from="1617347909679" duration="653000" />
+      <workItem from="1617690841543" duration="2209000" />
+      <workItem from="1617694955567" duration="1303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="731" y="237" key="#HTTP_Proxy" timestamp="1616564245380">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="237" key="#HTTP_Proxy/0.0.1920.1040@0.0.1920.1040" timestamp="1616564245380" />
+    <state x="242" y="0" key="#Project_Structure" timestamp="1617695337309">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="242" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1617695337309" />
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1616657245666" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616576806164">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616576806164" />
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1616745284055">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1616745284055" />
+    <state x="493" y="179" key="FileChooserDialogImpl" timestamp="1617695413044">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="493" y="179" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1617695413044" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616657141714" />
+    <state width="1293" height="301" key="GridCell.Tab.0.bottom" timestamp="1616752299805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="301" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616752299805" />
+    <state width="1293" height="301" key="GridCell.Tab.0.center" timestamp="1616752299805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="301" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616752299805" />
+    <state width="1293" height="301" key="GridCell.Tab.0.left" timestamp="1616752299804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="301" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616752299804" />
+    <state width="1293" height="301" key="GridCell.Tab.0.right" timestamp="1616752299805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="301" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616752299805" />
+    <state width="1293" height="301" key="GridCell.Tab.1.bottom" timestamp="1616752299805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="301" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616752299805" />
+    <state width="1293" height="301" key="GridCell.Tab.1.center" timestamp="1616752299805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="301" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616752299805" />
+    <state width="1293" height="301" key="GridCell.Tab.1.left" timestamp="1616752299805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="301" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616752299805" />
+    <state width="1293" height="301" key="GridCell.Tab.1.right" timestamp="1616752299805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="301" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616752299805" />
+    <state x="70" y="0" key="SettingsEditor" timestamp="1617695609610">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="70" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1617695609610" />
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616747063054" />
+    <state x="662" y="121" width="596" height="798" key="find.popup" timestamp="1616747075823">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="662" y="121" width="596" height="798" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1616747075823" />
+    <state x="56" y="0" key="new project wizard" timestamp="1617695428040">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="56" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1617695428040" />
+    <state x="334" y="180" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1616740291529" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1617692447003">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1617692447003" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1616747144468">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1616747144468" />
+    <state x="427" y="47" key="spring file set editor" timestamp="1617695177507">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="427" y="47" key="spring file set editor/0.0.1280.680@0.0.1280.680" timestamp="1617695177507" />
+    <state x="640" y="202" key="spring file set editor/0.0.1920.1040@0.0.1920.1040" timestamp="1616657142116" />
+  </component>
+  <component name="ZooKeeperConfig">
+    <option name="host" value="" />
+    <option name="port" value="2181" />
+    <option name="charset" value="UTF-8" />
+    <option name="whitePaths" value="" />
+  </component>
+</project>
